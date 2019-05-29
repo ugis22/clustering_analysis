@@ -2,7 +2,7 @@
 
 Read about this project on Medium:
   
-- [Using machine learning to understand customers behavior]()
+- [Using machine learning to understand customers behavior](https://medium.com/@meinzaugarat/using-machine-learning-to-understand-customers-behavior-f41b567d3a50)
 
 ### Introduction
 
