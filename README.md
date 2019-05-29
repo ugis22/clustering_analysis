@@ -24,7 +24,8 @@ The goal of this project is to:
 
 ## Data Set Information
 
-The csv file corresponding used herein was downloaded from .
+The csv file corresponding used herein was downloaded from [Kaggle repository](https://www.kaggle.com/akram24/mall-customers).
+The dataset contains data about customers from a Mall. The information gather is: `Customer ID`, `Age`, `Annual Income (k$)`, `Spending Score (1-100)`.
 
 ## Analysis
 
