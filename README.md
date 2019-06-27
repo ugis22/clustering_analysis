@@ -1,8 +1,9 @@
 ## Using clustering algorithm to segment customers
 
-Read about this project on Medium:
+Read the posts related to this project on Medium:
   
 - [Using machine learning to understand customers behavior](https://medium.com/@meinzaugarat/using-machine-learning-to-understand-customers-behavior-f41b567d3a50)
+- [How to measure distances in machine learning](https://towardsdatascience.com/how-to-measure-distances-in-machine-learning-13a396aa34ce)
 
 ### Introduction
 
